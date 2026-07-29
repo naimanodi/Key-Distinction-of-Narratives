@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+nltk
+spacy
+matplotlib
+plotly
+seaborn
+scikit-learn
+mord
+fasttext
+openpyxl
+jupyterlab
+ipykernel
