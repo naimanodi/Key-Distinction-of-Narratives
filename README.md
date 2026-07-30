@@ -1,6 +1,6 @@
 # Key Distinction of Narratives
 
-This repository contains a notebook-based NLP pipeline for narrative analysis and visualization.
+This repository contains a notebook-based NLP-pipeline and data to support the article "Identifying Key Distinctions in Literary Narratives Using Word Embeddings".
 
 ## Repository Structure
 
