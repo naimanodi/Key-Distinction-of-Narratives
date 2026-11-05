@@ -12,3 +12,4 @@ fasttext
 openpyxl
 jupyterlab
 ipykernel
+krippendorff
