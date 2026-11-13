@@ -1,6 +1,6 @@
 # Key Distinction of Narratives
 
-This repository contains notebook-based NLP-pipeline for Identifying Key Distinctions in Literary Narratives (German) Using static Word Embeddings.
+This repository contains notebook-based NLP-pipeline for Identifying Key Distinctions in Literary Narratives (German) Using Static Word Embeddings.
 
 ## Repository Structure
 
